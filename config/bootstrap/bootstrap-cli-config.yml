@@ -93,7 +93,7 @@ bootstrap:
 
                 # Typical config will have a namespace for data sources ("src") and a namespace for use cases ("uc")
         - ns-name: uc
-          description: Data sources for the Ice Cream Factory # HINT
+          description: Use cases representing the data/products # HINT
 
           # Node names will normally follow src:001:srcname or uc:001:usecasename naming convention
           ns-nodes:
